@@ -1,0 +1,11 @@
+IR LEFT SENSOR
+SENSOR --> MOTOR SHIELD
+D       --> 10
+GND     -->GND
+5V      -->5V
+
+IR RIGHT SENSOR
+SENSOR --> MOTOR SHIELD
+D       --> 9
+GND     -->GND
+5V      -->5V
